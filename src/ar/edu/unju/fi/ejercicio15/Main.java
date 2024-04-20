@@ -18,7 +18,7 @@ public class Main {
 		}
 		
 		String[] arreglo = new String [numero]; 
-		//corregir
+
 		 for (int i = 0; i < arreglo.length; i++) {
 	            System.out.print("Ingrese un número entero para la posición " + i + ": ");
 	            arreglo[i] = scanner.next();
